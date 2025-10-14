@@ -1,5 +1,5 @@
 {
-  "name": "@oxmada/data-table-component",
+  "name": "@oxmad/data-table-component",
   "version": "1.0.0",
   "description": "Composant React réutilisable pour afficher des tableaux de données avec tri, recherche et pagination",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
     "table",
     "component"
   ],
-  "author": "Oxmada",
+  "author": "Oxmad",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=17",
