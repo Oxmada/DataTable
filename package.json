@@ -1,6 +1,6 @@
 {
   "name": "@oxmad/data-table-component",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Composant React réutilisable pour afficher des tableaux de données avec tri, recherche et pagination",
   "main": "dist/index.js",
   "type": "module",
